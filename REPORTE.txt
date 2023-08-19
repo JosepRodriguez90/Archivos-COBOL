@@ -1,0 +1,13 @@
+                           CENTRO DE CAPACITACION 
+ FECHA: 00/00/0000         EMPLEADOS DE LA EMPRESA
+ -------------------------------------------------
+    NUMERO            NOMBRE               STATUS 
+ -------------------------------------------------
+      100    FERNANDOTOLEDO ESPEJEL            8  
+      200    JOSE MARIA MEDINA                 5  
+      300    ROBERTO PEREZ GARCIA              8  
+      400    VENUSTIANO ESTRADA MENDEZ         7  
+      500    VALENTIN JIMENEZ OJEDA            8  
+ TOTAL DE EMPLEADOS LEIDOS  :      5              
+ TOTAL DE EMPLEADOS IMPRESOS:      5              
+ SUMA TOTAL DE SALARIOS    :     $156,002.60      
